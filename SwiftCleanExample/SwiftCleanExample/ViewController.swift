@@ -13,6 +13,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+//        cleaner.fileTime = ["txt":60, "hello/app": 40]
         cleaner.addItem()
     }
 
